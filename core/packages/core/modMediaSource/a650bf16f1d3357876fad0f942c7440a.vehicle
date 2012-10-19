@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'unique_key' => 
+  array (
+    0 => 'id',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '524d26a9f10d651ab4559e4a5d5955ca',
+  'package' => 'modx.sources',
+  'class' => 'modMediaSource',
+  'signature' => 'a650bf16f1d3357876fad0f942c7440a',
+  'native_key' => 1,
+  'object' => '{"id":1,"name":"Filesystem","description":"","class_key":"sources.modFileMediaSource","properties":"a:0:{}","is_stream":1}',
+);

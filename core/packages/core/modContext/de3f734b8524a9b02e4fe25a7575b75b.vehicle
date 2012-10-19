@@ -1,0 +1,30 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"core\\/modContext\\/de3f734b8524a9b02e4fe25a7575b75b\\/0\\/","target":"return MODX_BASE_PATH;","name":"index.php"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"core\\/modContext\\/de3f734b8524a9b02e4fe25a7575b75b\\/1\\/","target":"return MODX_BASE_PATH;","name":"ht.access"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"type":"php","source":"core\\/modContext\\/de3f734b8524a9b02e4fe25a7575b75b.resolve.core.resolver","target":"return MODX_BASE_PATH . \'config.core.php\';","name":"resolve.core"}',
+    ),
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b1f0ecd656a6ed0e1a89b81f190654a2',
+  'package' => 'modx',
+  'class' => 'modContext',
+  'signature' => 'de3f734b8524a9b02e4fe25a7575b75b',
+  'native_key' => 'web',
+  'object' => '{"key":"web","description":"The default front-end context for your web site.","rank":0}',
+);

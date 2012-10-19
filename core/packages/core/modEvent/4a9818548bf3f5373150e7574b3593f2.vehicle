@@ -1,0 +1,12 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '9aa9c2147a260abe3f39641c608abd04',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '4a9818548bf3f5373150e7574b3593f2',
+  'native_key' => 'OnTVOutputRenderList',
+  'object' => '{"name":"OnTVOutputRenderList","service":1,"groupname":"Template Variables"}',
+);

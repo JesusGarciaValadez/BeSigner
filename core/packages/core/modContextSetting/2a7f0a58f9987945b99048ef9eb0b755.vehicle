@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'febe11bf6847a05a6fc5694671c77a48',
+  'package' => 'modx',
+  'class' => 'modContextSetting',
+  'signature' => '2a7f0a58f9987945b99048ef9eb0b755',
+  'native_key' => 
+  array (
+    0 => 'mgr',
+    1 => 'allow_tags_in_post',
+  ),
+  'object' => '{"context_key":"mgr","key":"allow_tags_in_post","value":"1","xtype":"combo-boolean","namespace":"core","area":"system","editedon":null}',
+);

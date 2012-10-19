@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'namespace',
+    1 => 'controller',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'ee12e0689f69553814f82f4c1278f6e1',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'cd535910b00266dd45f6e5dcd9cac7f3',
+  'native_key' => 67,
+  'object' => '{"id":67,"namespace":"core","controller":"resource\\/tvs","haslayout":0,"lang_topics":"","assets":"","help_url":""}',
+);

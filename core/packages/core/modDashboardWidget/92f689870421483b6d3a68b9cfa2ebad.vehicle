@@ -1,0 +1,16 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'name',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '4b976f18f99143754fb538bf8f58d99a',
+  'package' => 'modx',
+  'class' => 'modDashboardWidget',
+  'signature' => '92f689870421483b6d3a68b9cfa2ebad',
+  'native_key' => NULL,
+  'object' => '{"id":null,"name":"w_whosonline","description":"w_whosonline_desc","type":"file","content":"[[++manager_path]]controllers\\/default\\/dashboard\\/widget.grid-online.php","namespace":"core","lexicon":"core:dashboards","size":"half"}',
+);

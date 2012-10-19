@@ -1,0 +1,17 @@
+<?php return array (
+  'preserve_keys' => false,
+  'update_object' => true,
+  'unique_key' => 
+  array (
+    0 => 'namespace',
+    1 => 'controller',
+  ),
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '15159819420dba5930adc1c320784920',
+  'package' => 'modx',
+  'class' => 'modAction',
+  'signature' => 'e9687ab4a60c698c7195813f85f4527b',
+  'native_key' => 104,
+  'object' => '{"id":104,"namespace":"core","controller":"system\\/dashboards\\/widget\\/create","haslayout":1,"lang_topics":"dashboards,user","assets":"","help_url":"Dashboard+Widgets"}',
+);
